@@ -123,5 +123,5 @@
 }
 ```
 ### [6.NSAttributedString相关操作](http://ios.jobbole.com/87029/)
-
+### [NSString超全总结](http://www.jianshu.com/p/7994b0ad6b88)
 
